@@ -21,7 +21,7 @@
         </mxCell>
         <mxCell id="wS6mHuD87-R1jIyh8XUj-66" value="SMTP" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wS6mHuD87-R1jIyh8XUj-65">
           <mxGeometry x="-0.1679" relative="1" as="geometry">
-            <mxPoint y="7" as="offset" />
+            <mxPoint y="8" as="offset" />
           </mxGeometry>
         </mxCell>
         <object label="&lt;b&gt;API&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" id="wS6mHuD87-R1jIyh8XUj-19">
