@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.3">
   <diagram name="Seite-1" id="8uPqZX7t3vb35os7wELI">
-    <mxGraphModel dx="1018" dy="585" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="842" dy="484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -51,13 +51,14 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="wS6mHuD87-R1jIyh8XUj-37" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00568d;shape=mxgraph.azure.laptop" vertex="1" parent="1">
-          <mxGeometry x="170" y="790" width="50" height="30" as="geometry" />
+          <mxGeometry x="195" y="790" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wS6mHuD87-R1jIyh8XUj-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="wS6mHuD87-R1jIyh8XUj-37">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="195" y="750" />
-              <mxPoint x="195" y="750" />
+              <mxPoint x="220" y="790" />
+              <mxPoint x="220" y="770" />
+              <mxPoint x="195" y="770" />
             </Array>
             <mxPoint x="195" y="680" as="targetPoint" />
           </mxGeometry>
@@ -72,19 +73,20 @@
         </mxCell>
         <mxCell id="wS6mHuD87-R1jIyh8XUj-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="wS6mHuD87-R1jIyh8XUj-60" target="wS6mHuD87-R1jIyh8XUj-76">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="195" y="680" as="targetPoint" />
+            <mxPoint x="90.5" y="790" as="sourcePoint" />
+            <mxPoint x="111" y="680" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="151" y="780" />
-              <mxPoint x="150" y="770" />
-              <mxPoint x="145" y="770" />
+              <mxPoint x="170" y="790" />
+              <mxPoint x="170" y="770" />
+              <mxPoint x="195" y="770" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="wS6mHuD87-R1jIyh8XUj-60" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00568d;shape=mxgraph.azure.mobile" vertex="1" parent="1">
-          <mxGeometry x="140" y="790" width="21" height="30" as="geometry" />
+          <mxGeometry x="159.55" y="790" width="21" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wS6mHuD87-R1jIyh8XUj-62" value="&lt;b&gt;Client&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="140" y="818" width="60" height="30" as="geometry" />
+          <mxGeometry x="164" y="768" width="60" height="30" as="geometry" />
         </mxCell>
         <object label="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;Mailserver&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" id="wS6mHuD87-R1jIyh8XUj-67">
           <mxCell style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;size=20;" vertex="1" parent="1">
