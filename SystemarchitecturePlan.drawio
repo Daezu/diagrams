@@ -26,7 +26,7 @@
         </mxCell>
         <mxCell id="wS6mHuD87-R1jIyh8XUj-8" value="HTTP" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wS6mHuD87-R1jIyh8XUj-7">
           <mxGeometry x="0.2596" y="1" relative="1" as="geometry">
-            <mxPoint x="1" y="11" as="offset" />
+            <mxPoint x="1" y="12" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wS6mHuD87-R1jIyh8XUj-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="wS6mHuD87-R1jIyh8XUj-76" target="wS6mHuD87-R1jIyh8XUj-19">
