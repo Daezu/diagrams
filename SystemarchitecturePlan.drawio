@@ -1,9 +1,65 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.3">
   <diagram name="Seite-1" id="8uPqZX7t3vb35os7wELI">
-    <mxGraphModel>
+    <mxGraphModel dx="1221" dy="702" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="wS6mHuD87-R1jIyh8XUj-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="wS6mHuD87-R1jIyh8XUj-17" target="wS6mHuD87-R1jIyh8XUj-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wS6mHuD87-R1jIyh8XUj-8" value="http" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wS6mHuD87-R1jIyh8XUj-7">
+          <mxGeometry x="0.2596" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wS6mHuD87-R1jIyh8XUj-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wS6mHuD87-R1jIyh8XUj-17" target="wS6mHuD87-R1jIyh8XUj-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wS6mHuD87-R1jIyh8XUj-10" value="http" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wS6mHuD87-R1jIyh8XUj-9">
+          <mxGeometry x="0.096" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <object label="API Gateway" id="wS6mHuD87-R1jIyh8XUj-17">
+          <mxCell style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;size=20;" vertex="1" parent="1">
+            <mxGeometry x="150" y="600" width="90" height="80" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="wS6mHuD87-R1jIyh8XUj-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="wS6mHuD87-R1jIyh8XUj-19" target="wS6mHuD87-R1jIyh8XUj-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="User&lt;br&gt;Service&lt;br&gt;(REST)" id="wS6mHuD87-R1jIyh8XUj-19">
+          <mxCell style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;size=20;" vertex="1" parent="1">
+            <mxGeometry x="350" y="600" width="90" height="80" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="React&lt;br&gt;Application&lt;br&gt;(Webserver)" id="wS6mHuD87-R1jIyh8XUj-27">
+          <mxCell style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;size=20;" vertex="1" parent="1">
+            <mxGeometry x="150" y="400" width="90" height="80" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="wS6mHuD87-R1jIyh8XUj-28" value="Postgres" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/SQL_Database_generic.svg;" vertex="1" parent="1">
+          <mxGeometry x="550" y="615" width="38" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wS6mHuD87-R1jIyh8XUj-37" value="Client" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.laptop" vertex="1" parent="1">
+          <mxGeometry x="170" y="790" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wS6mHuD87-R1jIyh8XUj-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="wS6mHuD87-R1jIyh8XUj-37" target="wS6mHuD87-R1jIyh8XUj-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="195" y="750" />
+              <mxPoint x="195" y="750" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wS6mHuD87-R1jIyh8XUj-39" value="http" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wS6mHuD87-R1jIyh8XUj-38">
+          <mxGeometry x="-0.0047" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wS6mHuD87-R1jIyh8XUj-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="wS6mHuD87-R1jIyh8XUj-37" target="wS6mHuD87-R1jIyh8XUj-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
