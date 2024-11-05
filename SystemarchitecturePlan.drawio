@@ -56,9 +56,8 @@
         <mxCell id="wS6mHuD87-R1jIyh8XUj-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="wS6mHuD87-R1jIyh8XUj-37">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="220" y="790" />
-              <mxPoint x="220" y="770" />
-              <mxPoint x="195" y="770" />
+              <mxPoint x="220" y="760" />
+              <mxPoint x="195" y="760" />
             </Array>
             <mxPoint x="195" y="680" as="targetPoint" />
           </mxGeometry>
@@ -76,9 +75,8 @@
             <mxPoint x="90.5" y="790" as="sourcePoint" />
             <mxPoint x="111" y="680" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="170" y="790" />
-              <mxPoint x="170" y="770" />
-              <mxPoint x="195" y="770" />
+              <mxPoint x="170" y="760" />
+              <mxPoint x="195" y="760" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -86,7 +84,7 @@
           <mxGeometry x="159.55" y="790" width="21" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wS6mHuD87-R1jIyh8XUj-62" value="&lt;b&gt;Client&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="164" y="768" width="60" height="30" as="geometry" />
+          <mxGeometry x="163" y="765" width="60" height="30" as="geometry" />
         </mxCell>
         <object label="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;Mailserver&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" id="wS6mHuD87-R1jIyh8XUj-67">
           <mxCell style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;size=20;" vertex="1" parent="1">
